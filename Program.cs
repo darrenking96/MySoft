@@ -16,6 +16,7 @@ namespace instdb
         {
             //string pwd = PasswordCreator.CreateNewPassword(4);
             string pwd = "aa456";
+            string xxx = "bbb";
 
 
             string baseDir = Environment.CurrentDirectory;
