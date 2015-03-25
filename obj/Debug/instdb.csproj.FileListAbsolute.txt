@@ -1,0 +1,11 @@
+F:\光科项目\instdb\obj\Debug\instdb.csprojResolveAssemblyReference.cache
+F:\光科项目\instdb\bin\Debug\instdb.exe
+F:\光科项目\instdb\bin\Debug\instdb.pdb
+F:\光科项目\instdb\obj\Debug\instdb.exe
+F:\光科项目\instdb\obj\Debug\instdb.pdb
+F:\instdb\obj\Debug\instdb.exe
+F:\instdb\obj\Debug\instdb.pdb
+F:\instdb\bin\Debug\instdb.exe
+F:\instdb\bin\Debug\instdb.pdb
+F:\WUTOS\Project\instdb\instdb\obj\Debug\instdb.exe
+F:\WUTOS\Project\instdb\instdb\obj\Debug\instdb.pdb

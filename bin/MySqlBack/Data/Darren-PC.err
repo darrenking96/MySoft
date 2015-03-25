@@ -1,0 +1,64 @@
+150318 17:32:00 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+150318 17:32:01  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+150318 17:32:01  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+150318 17:32:01  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 24 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+150318 17:32:02  InnoDB: Started; log sequence number 0 0
+150318 17:32:02 [Note] Event Scheduler: Loaded 0 events
+150318 17:32:02 [Note] F:\instdb\bin\MySql\bin\mysqld: ready for connections.
+Version: '5.1.51-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150318 17:33:21 [Note] F:\instdb\bin\MySql\bin\mysqld: Normal shutdown
+
+150318 17:33:21 [Note] Event Scheduler: Purging the queue. 0 events
+150318 17:33:21  InnoDB: Starting shutdown...
+150318 17:33:22  InnoDB: Shutdown completed; log sequence number 0 44233
+150318 17:33:22 [Note] F:\instdb\bin\MySql\bin\mysqld: Shutdown complete
+
+150318 17:33:24 [Note] Plugin 'FEDERATED' is disabled.
+150318 17:33:25  InnoDB: Started; log sequence number 0 44233
+150318 17:33:25 [Note] Event Scheduler: Loaded 0 events
+150318 17:33:25 [Note] F:\instdb\bin\MySql\bin\mysqld: ready for connections.
+Version: '5.1.51-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150318 17:47:59 [Note] F:\instdb\bin\MySql\bin\mysqld: Normal shutdown
+
+150318 17:47:59 [Note] Event Scheduler: Purging the queue. 0 events
+150318 17:47:59  InnoDB: Starting shutdown...
+150318 17:48:00  InnoDB: Shutdown completed; log sequence number 0 44233
+150318 17:48:00 [Note] F:\instdb\bin\MySql\bin\mysqld: Shutdown complete
+
+150318 17:52:07 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 25165824 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+150318 17:52:07 [ERROR] Plugin 'InnoDB' init function returned error.
+150318 17:52:07 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+150318 17:52:07 [Note] Event Scheduler: Loaded 0 events
+150318 17:52:07 [Note] F:\instdb\bin\MySql\bin\mysqld: ready for connections.
+Version: '5.1.51-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150318 17:55:25 [Note] F:\instdb\bin\MySql\bin\mysqld: Normal shutdown
+
+150318 17:55:25 [Note] Event Scheduler: Purging the queue. 0 events
+150318 17:55:25 [Note] F:\instdb\bin\MySql\bin\mysqld: Shutdown complete
+
+150318 17:58:07 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 25165824 bytes
+InnoDB: than specified in the .cnf file 0 5242880 bytes!
+150318 17:58:07 [ERROR] Plugin 'InnoDB' init function returned error.
+150318 17:58:07 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+150318 17:58:07 [Note] Event Scheduler: Loaded 0 events
+150318 17:58:07 [Note] F:\instdb\bin\MySql\bin\mysqld: ready for connections.
+Version: '5.1.51-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150318 17:58:43 [Note] F:\instdb\bin\MySql\bin\mysqld: Normal shutdown
+
+150318 17:58:43 [Note] Event Scheduler: Purging the queue. 0 events
+150318 17:58:43 [Note] F:\instdb\bin\MySql\bin\mysqld: Shutdown complete
+
